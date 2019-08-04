@@ -1,4 +1,5 @@
 how to run:
+- clone this reposotory 
 - open cmd
 - cd to out/artifacts
 - Run the jar by typing the command :  -jar "Fire station problem.jar" JSONExample.json
